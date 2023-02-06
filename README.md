@@ -3,9 +3,6 @@ Repositorio de material para Sistemas Operativos (75.08), Facultad de Ingenierí
 
 ### **Links de Interés**
 - [Página de Cátedra](https://fisop.github.io/website/)
-- [Repo de Labs](https://github.com/fiubatps/sisop_2022b_dimatteo)
-- [Repo de Malloc y Sched](https://github.com/fiubatps/sisop_2022b_g10)
-- [Repo de FS](https://github.com/fiubatps/sisop_2022b_g29)
 - [Apunte Teórico](https://fisop.github.io/apunte/index.html)
 
 ### **Material complementario**
